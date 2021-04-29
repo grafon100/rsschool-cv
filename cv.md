@@ -92,8 +92,9 @@ Course Blender: [Blender 2.8+](https://www.youtube.com/watch?v=KO0wNQdiivs&list=
 - [BGPU them. M. Tank (Psychology), Minsk 2012-2018](https://bspu.by)
 - [GGKI them. N.F.Sokolovsky (Musician), Gomel 2008-2012](http://ggki.by)
 
+---
 
-[<- Back to README.md](https://github.com/grafon100/rsschool-cv/blob/main/README.md)
+[:arrow_left: :arrow_left: :arrow_left:  **<-Back to README.md** :arrow_left: :arrow_left: :arrow_left:](https://github.com/grafon100/rsschool-cv/blob/main/README.md)
 
 
 ![](https://static.tildacdn.com/tild6263-3239-4438-a262-356633373837/abstract-banner-png-.png)

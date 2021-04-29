@@ -1,1 +1,1 @@
-[CV](https://github.com/grafon100/rsschool-cv/cv)
+[CV]((https://github.com/grafon100/rsschool-cv/blob/gh-pages/cv.md))

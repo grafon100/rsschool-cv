@@ -8,7 +8,7 @@
 - :e-mail: email: grafon100@yandex.ru
 -  :phone: tel.: +48-884-662-957
 -  :iphone: viber: +375-25-510-27-83
--  :busts_in_silhouette: Telegram: @grafon100
+-  :busts_in_silhouette: Telegram: [@grafon100](https://t.me/@grafon100)
 - :earth_americas: vk.:  [grafon100](https://vk.com/grafon100)
 
 ---
